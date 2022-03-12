@@ -1,6 +1,6 @@
 # Welcome to my GitHub! :wave:
 
-Feel free to look around. I'm Lewes. I'm a 19 year old Software Developer based in the United Kingdom. I'm in my second year of an Integrated Masters in Software Engineering as an undergraduate student at the University of Southampton. 
+Feel free to look around. I'm Lewes. I'm a 20 year old Software Developer based in the United Kingdom. I'm in my second year of an Integrated Masters in Software Engineering as an undergraduate student at the University of Southampton. 
 
 Outside of my studies, I work part-time as the Chief Technology Officer at ![ ](https://i.imgur.com/gMfQUOG.png) [ManaLabs Inc](https://manalabs.io/).
 
