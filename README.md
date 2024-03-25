@@ -1,6 +1,6 @@
 # Welcome to my GitHub! :wave:
 
-Feel free to look around. I'm Lewes. I'm a 21 year old Software Developer based in the United Kingdom. I'm in my third year of an Integrated Masters in Software Engineering as an undergraduate student at the ![ ](https://i.imgur.com/jlrOar3.png) [University of Southampton](https://southampton.ac.uk).
+Feel free to look around. I'm Lewes. I'm a 22 year old Software Developer based in the United Kingdom. I'm in my third year of an Integrated Masters in Software Engineering as an undergraduate student at the ![ ](https://i.imgur.com/jlrOar3.png) [University of Southampton](https://southampton.ac.uk).
 
 Outside of my studies, I work part-time as the Lead Software Engineer at ![ ](https://i.imgur.com/gMfQUOG.png) [ManaLabs Inc](https://manalabs.io/). ManaLabs is a pioneer in the UGC multiplayer space. In 2022, we achieved 370,000 monthly active players and a peak of 2300 concurrent connections.
 
